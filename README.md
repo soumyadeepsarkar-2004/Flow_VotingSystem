@@ -89,6 +89,8 @@ contract VotingSystem {
         return (proposals[winningProposalId].description, winningVoteCount);
     }
 }
+```
+Tech Stack ✅
 
 | Layer                  | Technology         |
 | ---------------------- | ------------------ |
@@ -100,7 +102,6 @@ contract VotingSystem {
 | **License**            | MIT                |
 
 
-```
 
 ## 🚀 Future Improvements
 
